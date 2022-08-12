@@ -19,7 +19,6 @@ Summary of linear regression:
 Variables/coefficients "Vehicle_Length" and "Ground_Clearance" are statistically significant because their p-values are < 0.05. This also means these variables provide a non-random variance to the mpg value.
 
 **Is the slope of the linear model considered to be zero? Why or why not?**
-
 The slope is different from zero since the p-value of the model is 5.35e-11. This is below 0.05.
 
 **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
